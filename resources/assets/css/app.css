@@ -1,0 +1,10 @@
+body {
+  margin: 2em 0;
+}
+.error {
+  font-weight: bold;
+  color: red;
+}
+.debug {
+  margin: 2em 0;
+}

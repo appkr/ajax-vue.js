@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.css","sourcesContent":["body {\n  margin: 2em 0;\n}\n.error {\n  font-weight: bold;\n  color: red;\n}\n.debug {\n  margin: 2em 0;\n}"],"sourceRoot":"/source/"}
