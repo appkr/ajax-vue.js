@@ -6,6 +6,7 @@ Follow along [Laracasts](https://laracasts.com) - [The Vast World of Vue.js](htt
 
 ```
 $ git clone git@github.com:appkr/ajax-vue.js.git
+$ composer install
 $ npm install && bower install && gulp
 $ cd ajax-vue.js && touch storage/database.sqlite && php artisan migrate
 ```
